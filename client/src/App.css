@@ -1,0 +1,287 @@
+.imgadmin input {
+  border: 2px solid white;
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  /* margin-top: 30px; */
+  width: 50%;
+}
+
+.imgadmin input:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+.imgadmin button {
+  border: 2px solid white;
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  /* margin-top: 30px; */
+  width: 50%;
+}
+
+.imgadmin button:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+.admininfo{
+  text-align: center;
+  padding: 100px;;
+  color: white;
+  height: 1000px;
+  width: 100%;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-image: url('style/ferns-303016_1280.jpg');
+}
+.table-responsive-md{
+  /* color: white; */
+  background-color: rgba(11, 43, 14, 0.7);
+  border-radius: 15px;
+  padding: 50;
+  font-size: 25px;
+}
+.table-responsive-md a{
+  border: 2px solid white;
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  /* margin-top: 30px; */
+  width: 50%;
+}
+.table-responsive-md a:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+
+.loginform button{
+  border: 2px solid white;
+}
+.loginform {
+  text-align: center;
+  padding: 100px;;
+  color: white;
+  height: 1000px;
+  width: 100%;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-image: url('style/ferns-303016_1280.jpg');
+}
+
+.plslogin {
+  padding: 100px;;
+  color: white;
+  height: 1000px;
+  width: 100%;
+  text-align: center;
+  background-image: url('style/ferns-303016_1280.jpg');
+}
+.plslogin h1{
+  text-align: center;
+  background-color: rgba(11, 43, 14, 0.1);
+  background-image: url('style/ferns-303016_1280.jpg');
+  padding: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 40px;
+}
+.info{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-image: url('style/ferns-303016_1280.jpg');
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  margin-left: 50%;
+  padding: 40px;
+  margin-left: 50%;
+}
+.data {
+  /* margin-top: 30px; */
+  color: white;
+  width: 100%;
+  background-color: rgba(11, 43, 14, 0.6);
+  border-radius: 15px;
+  padding: 20px;  
+}
+.img {
+  width: 100%;
+  height: 50%;
+  padding: 5px;
+  margin-top: 3%;
+}
+#img {
+  border: 2px solid white;
+  max-width:100%;
+  max-height:100%;
+}
+.info a {
+  border: 2px solid white;
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 30px;
+  width: 30%;
+}
+.info a:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+.mainpage{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-image: url('style/ferns-303016_1280.jpg');
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  margin-left: 50%;
+  padding: 100px;
+  margin-left: 50%;
+}
+.areas {
+  color: white;
+  background-color: rgba(11, 43, 14, 0.6);
+  border-radius: 15px;
+  padding: 50;
+}
+.areas h4 {
+  padding: 10px;
+}
+.area {
+  color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+  padding: 5px;
+}
+.area a {
+  color: white;
+  padding: 1px;
+}
+.area:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+#logout {
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 30px;
+  width: 30%;
+}
+#logout:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+
+.home {
+background-color: rgba(green, green, green, 1);
+}
+.form {
+  background-color: rgba(11, 43, 14, 0.6);
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-radius: 15px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.home, p h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  color: white;
+}
+#password {
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 2px solid #679F1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  width: 100%;
+}
+#email {
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 2px solid #679F1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  width: 100%;
+}
+#blog {
+  font-size: 1.2em;
+  color: white;
+  background-color: rgb(49, 71, 17);
+  margin: 8px 0;
+  border-radius: 10px;
+  padding: 10px;
+  width: 20%;
+}
+#blog:hover{
+  background-color: #679F1A;
+  color: #FFF;
+}
+.map {
+  position: unset;
+  width: 50%;
+}
+.login p, h2 {
+  padding: 5px;
+}
+.login {
+  text-align: center;
+  background-image: url('style/ferns-303016_1280.jpg');
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  margin-left: 50%;
+  padding: 100px;
+}
+
+.register {
+  width: 50%;
+  margin-left: 50%;
+  padding: 100px;
+}
+
+.App {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

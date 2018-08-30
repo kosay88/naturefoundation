@@ -1,0 +1,19 @@
+{
+  "name": "nature-foundation",
+  "version": "1.0.0",
+  "description": "nature foundation project..",
+  "main": "Maps.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlavn84/Nature-Foundation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlavn84/Nature-Foundation/issues"
+  },
+  "homepage": "https://github.com/Carlavn84/Nature-Foundation#readme"
+}
