@@ -14,7 +14,7 @@ const mime = require('mime-types');
 const app = express();
 
 app.use(bodyparser.json());
-mongoose.connect("mongodb://kosay:kosay88@ds235302.mlab.com:35302/challenge",  { useNewUrlParser: true });
+mongoose.connect("mongodb://username:password@ds235302.mlab.com:35302/challenge",  { useNewUrlParser: true });
 
 
 var storage = multer.diskStorage({
